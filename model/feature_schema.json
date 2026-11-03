@@ -1,0 +1,32 @@
+{
+  "target": "Revenue",
+  "features": [
+    "Administrative",
+    "Administrative_Duration",
+    "Informational",
+    "Informational_Duration",
+    "ProductRelated",
+    "ProductRelated_Duration",
+    "PageValues",
+    "BounceRates",
+    "ExitRates",
+    "SpecialDay",
+    "Month",
+    "VisitorType",
+    "OperatingSystems",
+    "Browser",
+    "Region",
+    "TrafficType",
+    "Weekend"
+  ],
+  "model_files": {
+    "Logistic Regression": "logistic_regression.pkl",
+    "Decision Tree": "decision_tree.pkl",
+    "KNN": "knn.pkl",
+    "Naive Bayes": "naive_bayes.pkl",
+    "Support Vector Machine": "svm.pkl"
+  },
+  "random_state": 42,
+  "test_size": 0.2,
+  "sklearn_version": "1.9.0"
+}
