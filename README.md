@@ -60,7 +60,7 @@ Each session belongs to a different user over a 1-year period, which avoids bias
 
 **Repository:** <https://github.com/Ajayakumar-Vijayakumar-2026aj05144/ml-assignment-2>
 
-**Live Streamlit App:** <https://YOUR-APP-NAME.streamlit.app>
+**Live Streamlit App:** <https://ml-assignment-2-tac5ifdmmbnbuda7zuenza.streamlit.app/>
 
 Repository structure:
 
